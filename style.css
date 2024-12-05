@@ -1,0 +1,106 @@
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(224, 67, 67);
+    height: 30px;
+    padding: 10px 0px;
+    list-style-type: none;
+    align-items: center;
+   
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.iscriviti {
+    display: inline-block;
+    size: 10px;
+    font-size: 12px;
+    padding: 4px;
+    background-color: yellow;
+    border: 0px;
+    border-radius: 3px;
+}
+
+
+h1 {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Artinev {
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+.main-img {
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+button {
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.articoli {
+    display: flex;
+    justify-content: space-evenly;
+    width: 60%;
+}
+
+article {
+    font-size: small;
+    padding: 10px 10px;
+    border: 2px solid black;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.aside {
+    display: flex;
+    font-size: larger;
+}
+
+aside {
+    background-color: yellow;
+    width: 40%;
+
+}
+
+.diffont {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+.titoli {
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.leggi-img{
+    width: 300px;
+
+}
+
+.leggianche {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-evenly;
+}
+ 
